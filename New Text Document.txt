@@ -1,0 +1,4 @@
+http://libzplay.sourceforge.net/
+https://sonnati.wordpress.com/2011/08/30/ffmpeg-%E2%80%93-the-swiss-army-knife-of-internet-streaming-%E2%80%93-part-iv/
+https://code.google.com/archive/p/rtmp-mediaplayer/
+https://github.com/nelemans1971/rtmp-mediaplayer
